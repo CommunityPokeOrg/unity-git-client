@@ -1,0 +1,23 @@
+{
+  "name": "com.communitypoke.unitygit",
+  "version": "0.1.0",
+  "displayName": "Unity Git Client",
+  "description": "In-editor Git client for Unity: status, staging, commit, branches, push/pull, and commit history from a custom Editor window. Uses the git CLI.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "git",
+    "version control",
+    "editor",
+    "vcs"
+  ],
+  "author": {
+    "name": "CommunityPoke",
+    "url": "https://github.com/CommunityPokeOrg/unity-git-client"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CommunityPokeOrg/unity-git-client.git"
+  }
+}

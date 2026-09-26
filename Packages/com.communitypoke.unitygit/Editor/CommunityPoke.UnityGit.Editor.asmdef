@@ -1,0 +1,16 @@
+{
+    "name": "CommunityPoke.UnityGit.Editor",
+    "rootNamespace": "CommunityPoke.UnityGit",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

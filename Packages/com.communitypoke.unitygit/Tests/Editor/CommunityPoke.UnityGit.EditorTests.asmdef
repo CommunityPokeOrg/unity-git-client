@@ -1,0 +1,24 @@
+{
+    "name": "CommunityPoke.UnityGit.EditorTests",
+    "rootNamespace": "CommunityPoke.UnityGit.Tests",
+    "references": [
+        "CommunityPoke.UnityGit.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
